@@ -58,16 +58,18 @@ U_NP,              U_NP,              U_NA,              U_NA,              U_NA
 
 #define MIRYOKU_LAYER_VAL \
 &kp TAB,           &kp Q,             &kp W,             &kp E,             &kp R,             U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
-&kp LSHFT,         &kp A,             &kp S,             &kp D,             U_MT(N4, G),       U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
-&kp ESC,           &kp Z,             &kp X,             &kp C,             &kp F,             U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
+&kp LSHFT,         &kp A,             &kp S,             &kp D,             &kp F,             U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
+&kp LCTRL,         &kp Z,             &kp X,             &kp C,             U_MT(N4, G),       U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
 U_NP,              U_NP,              U_LT(U_VTWO, ESC), &kp LCTRL,         &kp SPACE,         U_NA,              U_NA,              U_NA,              U_NP,              U_NP 
 
 
 #define MIRYOKU_LAYER_VTWO \
-&kp N1,           &kp B,             &kp W,             U_NA,              &kp CAPSLOCK,      U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
+&kp B,            &kp N1,            &kp W,             &kp CAPSLOCK,      U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
 &kp N2,           &kp A,             &kp S,             &kp D,             &kp N4,            U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
 &kp N3,           U_NA,              U_NA,              U_NA,              &kp V,             U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
 U_NP,              U_NP,             U_NA,              &kp LCTRL,         &kp SPACE,         U_NA,              U_NA,              U_NA,              U_NP,              U_NP 
+
+
 
 
 
