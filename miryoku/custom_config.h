@@ -32,7 +32,7 @@ U_NP,              U_NP,              &kp K_APP,         &kp TAB,           &kp 
 #define MIRYOKU_LAYER_NAV \
 U_UND,             U_RDO,             &kp UP,            U_PST,             U_CPY,             &u_to_U_VAL,       &u_to_U_BASE,      &u_to_U_EXTRA,     &u_to_U_TAP,       U_BOOT,             \
 U_CUT,             &kp LEFT,          &kp DOWN,          &kp RIGHT,         &u_caps_word,      U_NA,              &kp LSHFT,         &kp LCTRL,         &kp LALT,          &kp LGUI,           \
-&kp END,           &kp PG_UP,         &kp PG_DN,         &u_to_U_NAV,       &kp HOME,          U_NA,              &u_to_U_NAV,       &u_to_U_NUM,       &kp RALT,          U_NA,               \
+&kp END,           &kp PG_UP,         &kp PG_DN,         &kp HOME,          &kp INS,           U_NA,              &u_to_U_NAV,       &u_to_U_NUM,       &kp RALT,          U_NA,               \
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              &kp RET,           &kp BSP,           &kp DEL,           U_NP,              U_NP                   
 
 #define MIRYOKU_LAYER_BASE_QWERTY \
