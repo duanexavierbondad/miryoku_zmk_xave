@@ -30,10 +30,10 @@ U_NP,              U_NP,              &kp LPAR,          &kp RPAR,          &kp 
 U_NP,              U_NP,              &kp K_APP,         &kp TAB,           &kp SPACE,         U_NA,              U_NA,              U_NA,              U_NP,              U_NP
 
 #define MIRYOKU_LAYER_NAV \
-U_CPY,             U_PST,             &kp UP,            U_RDO,             U_UND,             U_BOOT,            &u_to_U_TAP,       &u_to_U_EXTRA,     &u_to_U_BASE,      &u_to_U_VAL,       \
-&u_caps_word,      &kp LEFT,          &kp DOWN,          &kp RIGHT,         U_CUT,             &kp LGUI,          &kp LALT,          &kp LCTRL,         &kp LSHFT,         U_NA,              \
-&kp INS,           &kp HOME,          &kp PG_DN,         &kp PG_UP,         &kp END,           U_NA,              &kp RALT,          &u_to_U_NUM,       &u_to_U_NAV,       U_NA,              \
-U_NP,              U_NP,              &kp RET,           &kp BSPC,          &kp DEL,           U_NA,              U_NA,              U_NA               U_NP,              U_NP    
+&kp HOME,          &kp PG_DN,         &kp PG_UP,         &kp END,           &kp INS,           &u_to_U_VAL,       &u_to_U_BASE,      &u_to_U_EXTRA,     &u_to_U_TAP,       U_BOOT,            \
+&kp LEFT,          &kp DOWN,          &kp UP,            &kp RIGHT,         &u_caps_word,      U_NA,              &kp LSHFT,         &kp LCTRL,         &kp LALT,          &kp LGUI,          \
+U_UND,             U_CUT,             U_CPY,             U_PST,             U_RDO,             U_NA,              &u_to_U_NAV,       &u_to_U_NUM,       &kp RALT,          U_NA,              \
+U_NP,              U_NP,              &kp DEL,           &kp BSPC,          &kp RET,           U_NA,              U_NA,              U_NA,              U_NP,              U_NP
 
 #define MIRYOKU_LAYER_BASE_QWERTY \
 &kp Q,             &kp W,             &kp E,             &kp R,             &kp T,             &kp Y,             &kp U,             &kp I,             &kp O,             &kp P,             \
