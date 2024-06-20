@@ -66,7 +66,7 @@ U_NP,              U_NP,              U_LT(U_VTWO, ESC), &kp LCTRL,         &kp 
 #define MIRYOKU_LAYER_VTWO \
 &kp B,            &kp N1,            &kp W,             &kp N4             &kp CAPSLOCK,      U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
 &kp N2,           &kp A,             &kp S,             &kp D,             &kp G,            U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
-&kp N3,           U_NA,              U_NA,              U_NA,              &kp V,             U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
+&kp N3,           U_NA,              U_NA,              &kp Y,             &kp V,             U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
 U_NP,              U_NP,             U_NA,              &kp LCTRL,         &kp SPACE,         U_NA,              U_NA,              U_NA,              U_NP,              U_NP 
 
 
